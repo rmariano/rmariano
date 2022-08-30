@@ -4,7 +4,7 @@ I'm Mariano 😃. I'm a software engineer, passionate about the field.
 
 📚 I'm the author of the book [Clean code in Python](https://github.com/rmariano/Clean-code-in-Python). I also write about software in [my blog](https://rmariano.eu).
 
-📬 You can reach out to me at [LinkedIn](www.linkedin.com/in/marianoanaya/).
+📬 You can reach out to me at [LinkedIn](https://www.linkedin.com/in/marianoanaya/).
 
 <!--
 **rmariano/rmariano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
