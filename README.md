@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm Mariano 😃. I'm a software engineer, passionate about the field.
+I'm Mariano 😃. I'm a senior software engineer, techical leaader.
+
+Linux, software architecture, algorithsm.
+
+I'm constantly learning new technologies, and sharing what I've found. `#masterTeachLearn`
 
 📚 I'm the author of the book [Clean code in Python](https://github.com/rmariano/Clean-code-in-Python). I also write about software in [my blog](https://rmariano.eu).
 
