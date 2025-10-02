@@ -2,7 +2,7 @@
 
 I'm Mariano 😃. I'm a senior software engineer, techical leaader.
 
-Linux, software architecture, algorithsm.
+Linux, software architecture, algorithms.
 
 I'm constantly learning new technologies, and sharing what I've found. `#masterTeachLearn`
 
