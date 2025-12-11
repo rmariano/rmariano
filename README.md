@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Mariano 😃. I'm a senior software engineer, techical leaader.
+I'm Mariano 😃. I'm a senior software engineer, techical leader.
 
-Linux, software architecture, algorithms.
+Areas of expertise: Distributed systems, software architecture, system design, and algorithms.
 
 I'm constantly learning new technologies, and sharing what I've found. `#masterTeachLearn`
 
